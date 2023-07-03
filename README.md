@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Kevin Roa
-- 📚 I’m a senior at UT Dallas studying Software Engineering
+👋 Hi, I’m Kevin Roa
 
 <!---
 Kevin-Roa/Kevin-Roa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
